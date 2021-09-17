@@ -1,0 +1,321 @@
+@media(max-width:575px) and (min-width:0px){
+    .dental-plus{
+        display: none;
+    }
+    .menu-part{
+height: 100%;
+    }
+    .appointment-part{
+        display: none;
+    }
+    .navbar-brand{
+        display:inherit;
+       width: 50%;
+    }
+    .banner{
+        margin: auto !important;
+    }
+    .banner h2{
+           margin: auto;
+            text-align: center;
+            margin-bottom: 10px;
+font-size: 18px;
+        }
+        .banner h1{
+            margin: auto;
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 20px;
+        }
+        .banner p{
+            align-items: center;
+            text-align: center;
+        }
+        .btn-learn{
+            margin-left: 100px;
+            margin-right: 5px;
+            margin-top: 15px;
+        }
+        .btn-now{
+            margin-top: 15px;
+        }
+        .banner-doctor {
+            display: none;
+        }
+        .dental-agency{
+            text-align: center;
+        }
+        .dental-agency h1{
+            font-size: 20px;
+            margin-bottom: 12px;
+        }
+        .dental-agency p{
+            font-size: 14px;
+            
+        }
+        .tooth{
+            margin-bottom: 18px;
+        }
+        .tooth h3{
+            font-size: 16px;
+        }
+        .tooth-img img{
+            width: 13%;
+        }
+        .doctors{
+            display: none;
+        }
+        .service-details h1{
+          font-size: 25px;  
+        }
+        .icon-img img{
+            width: 45px;
+        }
+        .service-details p{
+            font-size: 13px;
+            margin-left: 10px;
+        }
+        .icon-img{
+            margin-bottom: 10px;
+        }
+        .clients-img img {
+            width: 15%;
+            margin-left: -36px;
+            margin-top: 30px;
+        }
+        .footer-logo img{
+            width: 40%;
+        }
+        .footer-img img{
+            width: 60%;
+        }
+        .recent-content{
+            margin-left: -31px;
+            margin-top: 5px;
+        }
+}
+
+
+@media(max-width:478px) and (min-width:425px){
+    .btn-learn{
+        margin-left: 50px;
+       
+    }
+}
+@media(max-width:477px) and (min-width:460px){
+    .btn-learn{
+        margin-left: 55px;
+       
+    }
+}
+@media(max-width:424px) and (min-width:0px){
+    .btn-learn{
+        margin-left: 40px;
+       
+    }
+}
+@media(max-width:376px) and (min-width:0px){
+    .btn-learn{
+        margin-left: 20px;
+       
+    }
+}
+@media(max-width:352px) and (min-width:0px){
+    .btn-learn{
+        margin-left: 10px;
+       
+    }
+}
+
+@media(max-width:340px) and (min-width:0px){
+    .btn-learn{
+      margin-left: 5px;
+       margin-right: 2px;
+    }
+}
+@media(max-width:331px) and (min-width:0px){
+    .btn-learn{
+        margin-left: 3px;
+        margin-right: 2px;
+    }
+}
+@media(max-width:328px) and (min-width:0px){
+    .btn-learn{
+      
+       margin-right: 0px;
+    }
+}
+
+@media(max-width:326px) and (min-width:0px){
+    .btn-learn{
+      
+       margin-right: -1px;
+    }
+}
+@media(max-width:325px) and (min-width:0px){
+    .btn-learn{
+     margin-left: 55px;
+    }
+    .btn-now{
+        margin-left: 55px;
+        margin-top: 10px;
+    }
+}
+@media(max-width:574px) and (min-width:479px){
+    .banner{
+        margin: auto !important;
+    }
+    .banner h2{
+        margin: auto;
+        margin-bottom: 10px;
+    }
+    .banner h1{
+        margin: auto;
+        margin-bottom: 10px;
+    }
+    .banner p{
+        text-align: center;
+        align-items: center;
+    }
+    .btn-learn{
+        margin-left: 70px;
+        margin-top: 15px;
+    }
+    .btn-now{
+        margin-top: 15px;
+    }
+}
+@media(max-width:574px) and (min-width:547px){
+    .btn-learn{
+        margin-left: 120px;
+        
+    }
+}
+
+
+@media(max-width:767px) and (min-width:576px){
+    .menu-part{
+        height: 100%;
+            }
+            .appointment-part{
+                display: none;
+            }
+.dental-plus{
+    display: none;
+}
+.navbar-brand{
+    display:inherit;
+    width: 50%;
+}
+    .banner h2{
+        text-align: center;
+        width: 100%;
+    }
+    .banner h1{
+        text-align: center;
+        width: 100%;
+    }
+    .banner p{
+        text-align: center;
+     
+    }
+    .banner-doctor{
+        display: none;
+    }
+    .btn-learn{
+        margin-left: 80px;
+        margin-right: 5px;
+    }
+    .doctors{
+        display: none;
+    }
+    .dental-agency{
+        text-align: center;
+    }
+    .clients-img{
+        margin-left: 48px;
+    }
+    .footer-logo img{
+        width: 40%;
+    }
+    .footer-img img{
+        width: 60%;
+    }
+    .recent-content{
+        margin-left: -31px;
+        margin-top: 15px;
+    }
+}
+@media(max-width:991px) and (min-width:768px){
+    .menu-part{
+        height: 100%;
+            }
+            .appointment-part{
+                display: none;
+            }
+.dental-plus{
+    display: none;
+}
+.navbar-brand{
+    display:inherit;
+    width: 50%;
+}
+.banner-doctor{
+    display: none;
+}
+.banner h2{
+    width: 100%;
+    padding: 8px 69px;
+}
+.banner h1{
+    width: 100%;
+    padding: 8px 70px;
+}
+.banner p{
+   text-align: center;
+}
+.btn-learn{
+    margin-left: 25px;
+}
+.banner{
+    margin: auto;
+}
+.footer-logo img{
+    width: 70%;
+}
+.footer-img{
+    width: 120%;
+}
+.recent-content p{
+    font-size: 12px;
+    margin-top: 5px;
+}
+.recent-content h6{
+    font-size: 12px;
+}
+form input{
+    margin-bottom: 15px;
+}
+.follow ul{
+    margin-left: 55px;
+}
+.follow ul li{
+    font-size: 25px;
+}
+}
+@media(max-width:1199px) and (min-width:1100px){
+    .doctors img{
+        bottom: 0;
+        margin-left: -70px;
+    }
+}
+@media(max-width:1450px) and (min-width:1400px){
+    .recent-content p{
+        margin-top: 6px;
+    }
+}
+    @media(max-width:1399px) and (min-width:1330px){
+        .doctors img{
+            margin-left: -80px;
+        }
+    }

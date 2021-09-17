@@ -1,0 +1,1005 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.dental-plus{
+    margin-top: 40px;
+}
+.logo{
+
+width: 55%;
+
+margin-left: 20px;
+}
+.logo img{
+    
+}
+.support-center{
+
+display: flex;
+
+justify-content: space-between;
+
+width: 95%;
+}
+.support-line{
+
+display: flex;
+
+margin-left: 60px;
+}
+
+.support-icon{margin-top: 5px;margin-right: 15px;}
+.support-icon i{
+
+font-size: 212%;
+
+color: #F69165;
+}
+.support-content{
+
+}
+.support-content h3{
+
+font-size: 18px;
+
+font-weight: 600;
+}
+.support-content p{
+
+font-size: 12px;
+
+color: #A1A1A1;
+
+font-weight: 600;
+}
+.menu-part{
+
+background-color: #00CCE1;
+
+margin-top: 28px;
+
+height: 80px;
+}
+
+
+
+.navbar-light .navbar-nav .nav-link{font-size: 14px;width: 58%;color: #ffff;}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #F69165;
+    transition: .4s all ease-in-out;
+}
+
+.appointment-part{
+
+transform: skewX(-15deg);
+
+display: flex;
+
+justify-content: center;
+
+align-items: center;
+
+height: 80px;
+
+background-color: #F69165;
+
+width: 40%;
+
+padding-bottom: 20px;
+
+margin-left: 280px;
+
+margin-top: -8px;
+
+cursor: pointer;
+}
+.appointment-part:hover{
+    background-color: #00CCE1;
+transition: .6s all ease-in-out;
+}
+.appointment-icon{padding-top: 30px;font-size: 18px;transform: skewX(15deg);color: #ffff;}
+.appointment-icon:hover{
+    color: #F69165;
+    transition: .6s all ease-in-out;
+}
+
+.appointment-icon i{
+    margin-right: 6px;
+    font-weight: normal;
+    font-size: 15px;
+}
+.appointment-icon h3{transform: skewX(0deg);display: inline-block;font-size: 14px;font-weight: normal;}
+.banner-section{background-image: url(../images/banner-background.png);background-position: center;background-repeat: no-repeat;background-size: cover;min-height:70vh;position: relative;}
+.banner{
+
+margin-top: 100px;
+
+margin-left: 14px;
+
+margin-right: -14px;
+}
+.banner h2{
+    
+text-transform: uppercase;
+    
+color: #fff;
+    
+background: #00CCE1;
+    
+width: 48%;
+    
+font-size: 20px;
+    
+padding: 5px 15px;
+    
+padding: 0;
+    
+padding: 5px 32px;
+    
+margin: 0;
+    
+margin-bottom: 10px;
+    
+letter-spacing: 1px;
+    
+font-weight: 600;
+}
+.banner h1{
+    
+color: #ffff;
+    
+background: #F69165;
+    
+font-size: 25px;
+    
+text-transform: uppercase;
+    
+margin: 0;
+    
+width: 67%;
+    
+padding: 5px 28px;
+    
+margin-bottom: 20px;
+    
+letter-spacing: 1px;
+    
+font-weight: 600;
+}
+.banner p{
+    
+font-size: 16px;
+}
+.btn-learn{
+
+color: #fff;
+
+background: #F69165;
+
+border: none;
+
+border: 1px solid #ffffff0f;
+
+border-radius: 0;
+
+font-weight: 600;
+
+font-size: 13px;
+
+padding: 10px 20px;
+
+margin-top: 30px;
+
+margin-right: 12px;
+}
+.btn-learn:hover{
+    color: #fff;
+    background: #00CCE1;
+    transition: .4s all ease-in-out;
+}
+
+.btn-now{
+
+color: #fff;
+
+background: #00CCE1;
+
+border: none;
+
+border-radius: 0;
+
+font-weight: 600;
+
+font-size: 13px;
+
+padding: 10px 25px;
+
+border: 1px solid #ffffff0d;
+
+margin-top: 30px;
+}
+.btn-now:hover{
+    color: #fff;
+    background: #F69165;
+    transition: .4s all ease-in-out;
+}
+.banner-doctor{
+
+margin-top: 20px;
+}
+.doctor-img{width: 56%;bottom: -156px;position: absolute;left: 44%;}
+.doctor-img img{}
+.doctor-img2{
+
+margin-top: 40px;
+}
+.doctor-img2 img{width: 80% !important;}
+.owl-dot span {
+    height: 8px;
+    width: 8px;
+    display: inline-block;
+    background: transparent;
+    margin: 0 5px;
+    border-radius: 100%;
+    border: 1px solid #80808082;
+}
+.owl-dot{
+    vertical-align: revert;
+}
+.owl-nav{
+    display: none;
+}
+.owl-dots{
+
+    text-align: center;
+}
+.owl-dots .active span{background-color: #ff000066;height: 10px;width:10px;display: inline-block;border-radius: 100%;}
+.agency-section{position: relative;}
+.doctors{}
+.doctors img{
+
+width: 40%;
+
+position: absolute;
+
+bottom: 0;
+
+margin-left: -8px;
+}
+    
+
+.dental-agency{
+
+margin-top: 70px;
+
+margin-bottom: 50px;
+
+margin-left: -28px;
+}
+.dental-agency h1{
+
+font-size: 24px;
+
+font-weight: 600;
+
+margin: 0;
+
+margin-bottom: 15px;
+}
+.dental-agency p{
+
+font-size: 14px;
+
+color: #707070;
+
+margin-bottom: 30px;
+}
+.tooth{
+
+margin-top: 8px;
+}
+.tooth:hover{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    transition: .4s all ease-in-out;
+}
+.tooth h3{
+    
+font-size: 22px;
+    
+font-weight: 600;
+    
+margin: 0;
+    
+margin-bottom: 12px;
+}
+.tooth p{
+    
+color: #7c7c7c;
+    
+font-size: 14px;
+    
+margin: 0;
+    
+margin-bottom: 20px;
+}
+.tooth-img{
+
+margin-bottom: 10px;
+}
+.tooth-img img{
+    
+width: 15%;
+}
+.meet-doctors{
+
+text-align: center;
+
+background: #f9f9f9;
+}
+.meet-doctors h1{
+
+font-size: 28px;
+
+font-weight: 600;
+
+margin: 0;
+
+margin-bottom: 15px;
+}
+.meet-doctors p{
+
+color: #919191;
+
+font-size: 14px;
+}
+.icon-img{
+
+margin-bottom: 18px;
+}
+.icon-img img{
+    
+}
+
+.doctors-section{
+
+margin: 0;
+
+padding: 0;
+
+width: 100%;
+
+padding-top: 50px;
+
+margin: -14px 10px;
+}
+
+.all-doctors{
+    background: #E7E7E7;
+    position: relative;
+}
+.all-doctors img{
+
+width: 100%;
+}
+.doctors-name{
+
+text-align: center;
+
+padding: 0;
+
+margin: 0;
+
+background: #ffff;
+border-bottom: 3px solid #00CCE1;
+}
+.doctors-name h3{
+    
+font-size: 20px;
+    
+font-weight: 700;
+    
+padding-top: 20px;
+    
+margin: 0;
+}
+.doctors-name h5{
+    
+font-size: 16px;
+    
+margin: 0;
+    
+color: #B2B2B2;
+    
+font-weight: 400;
+    
+padding-bottom: 22px;
+}
+.all-doctors::before{
+    content: '';
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 0;
+    height: 0;
+    transform: translate(-50%, -50%);
+    background-color: black;
+    opacity: 0;
+    transition: .5s all ease-in-out;}
+
+    .doctors-section:hover .all-doctors::before{
+        opacity: 0.6;
+        width: 100%;
+        height: 100%;
+        color: #F69165;
+    }
+    
+    .doctors-section:hover .doctors-name h3{
+        color: #F69165;
+    }
+    .doctors-section:hover .doctors-name{
+        border-bottom: 3px solid #F69165;
+    }
+.social-icon{
+
+position: absolute;
+
+top: 0%;
+
+left: 0%;
+
+transform: translate(-50%, -50%);
+opacity: 0;
+transition: .5s all ease-in-out;
+}
+.social-icon ul{
+    
+list-style: none;
+    
+padding: 0;
+    
+margin: 0;
+    
+display: flex;
+    
+width: 130px;
+    
+margin-top: 18px;
+}
+.social-icon ul li{
+    
+height: 35px;
+    
+width: 35px;
+    
+border: 1px solid #fff;
+    
+line-height: 40px;
+    
+margin-left: 10px;
+    
+color: #fff;
+cursor: pointer;
+    
+background: transparent;
+    
+border-radius: 3px;
+transition: .4s all ease-in-out;
+}
+.social-icon ul li i{
+    transition: .4s all ease-in-out;
+}
+.doctors-section:hover .social-icon{
+    opacity: 1;
+    left: 50%;
+    top:50%
+}
+.social-icon ul li:hover{
+    color: #fff;
+    background-color: #F69165;
+}
+.services{
+
+padding-bottom: 90px;
+}
+.services h1{
+    font-size: 28px;
+
+font-weight: 600;
+
+margin: 0;
+
+margin-bottom: 15px;
+}
+.services p{
+    color: #8E8E8E;
+    font-size: 14px;
+}
+.all-services{
+
+border: 3px solid #d4d2d2f2;
+
+padding: 10px 40px;
+transition: .4s all ease-in-out;
+}
+.service-img{
+    
+}
+.all-services h3{
+    
+margin: 0;
+    
+margin-left: 42px;
+    
+margin-bottom: 12px;
+    
+font-size: 20px;
+    
+font-weight: 600;
+}
+.service-img img{margin: 0;margin-bottom: -46px;width: 30px;}
+.all-services p{
+    
+color: #8E8E8E;
+    
+font-size: 14px;
+    
+margin: 0;
+    
+margin-bottom: 8px;
+}
+.btn-more{
+
+border: none;
+
+margin-left: -12px;
+
+font-size: 14px;
+
+font-weight: 600;
+
+color: #808080;
+}
+.all-services:hover{
+    border: 4px solid #F69165;
+}
+.all-services:hover h3{
+color:#F69165 ;
+}
+.all-services:hover .btn-more{
+color: #F69165;
+}
+.pricing-section{
+background-color: #F9F9F9;
+}
+.pricing-section h1{
+    font-size: 28px;
+
+    font-weight: 600;
+    
+    margin: 0;
+    
+    margin-bottom: 15px;
+}
+.pricing-section p{
+    color: #8E8E8E;
+    font-size: 14px;
+}
+
+
+
+.plan{text-align: center;padding-bottom: 25px;border: 4px solid #fff;}
+.plan h3{
+
+color: #00CCE1;
+
+font-weight: 700;
+
+font-size: 25px;
+
+margin: 0;
+
+padding-top: 18px;
+
+padding-bottom: 5px;
+}
+.plan h2{
+
+color: #00CCE1;
+
+font-size: 40px;
+
+font-weight: 600;
+
+margin: 0;
+
+padding-top: 25px;
+
+background: #ffff;
+}
+
+.plan h6{color: #00CCE1;font-size: 14px;padding-bottom: 25px;margin: 0;background: #fff;}
+.plan p{color: #707070;font-size: 12px;margin: 0;padding-bottom: 18px;}
+.btn-sign{
+
+padding: 0;
+
+border: 1px solid #0000000d;
+
+padding: 8px 30px;
+
+border-radius: 2px;
+
+color: #fff;
+
+font-size: 14px;
+
+font-weight: 700;
+
+background: #008ED6;
+
+margin-top: 20px;
+}
+.plan h5{
+
+font-size: 13px;
+
+color: #7C7C7C;
+
+margin-top: 20px;
+}
+.plan span{
+    
+display: block;
+    
+height: 1px;
+    
+width: 100%;
+    
+background: #ffff;
+}
+.plan:hover .btn-sign{
+    background-color:#F69165;
+    color: #fff;
+    transition: .5s all ease-in-out;
+}
+.plan:hover h3{
+    color: #F69165;
+    transition: .5s all ease-in-out;
+}
+.plan:hover h2{
+    color: #fff;
+    background-color: #F69165;
+    transition: .5s all ease-in-out;
+}
+.plan:hover h6{
+    color: #fff;
+    background-color: #F69165;
+    transition: .5s all ease-in-out;
+}
+.plan:hover{
+    border: 4px solid #F69165;
+}
+.client-section{
+    background-image: url(../images/background-img.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 65vh;
+    position: relative;
+}
+.client-section::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0.7;
+    transition: .5s all ease-in-out;
+}
+.service-details h1{
+    font-size: 28px;
+    font-weight: 600;
+    margin: 0;
+    color: #fff;
+    margin-bottom: 5px;
+}
+.service-details p{
+    color: #fff;
+    font-size: 14px;
+    margin: 0;
+    margin-bottom: 20px;
+}
+.service-details{
+    
+position: absolute;
+    
+align-items: center;
+    
+right: 12px;
+}
+
+
+.client-section h1::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    color: #FFFFFF;
+    opacity: 1;
+
+}
+.clients-img{
+
+position: absolute;
+
+display: flex;
+
+justify-content: space-between;
+
+width: 72%;
+
+align-items: center;
+
+margin-left: 85px;
+
+top: 205px;
+}
+.clients-img img{
+    
+width: 11%;
+}
+footer{
+
+background: #161616e3;
+
+min-height: 90vh;
+
+padding-top: 100px;
+}
+.footer-left{
+}
+.footer-logo{margin-bottom: 30px;}
+.footer-logo img{
+    
+width: 44%;
+}
+.footer-left p{
+
+margin: 0;
+
+font-size: 14px;
+
+color: #ADADAD;
+
+margin-bottom: 20px;
+}
+.footer-icon{
+
+font-size: 28px;
+
+color: #06A4B5;
+
+display: flex;
+}
+.footer-icon i{}
+.mail-id{
+
+font-weight: 600;
+}
+.mail-id p{
+    
+}
+.about-dental{
+    
+display: flex;
+    
+align-items: center;
+    
+margin-bottom: 18px;
+}
+.about-dental p{
+    margin: 0;
+    font-size: 14px;
+    color: #ADADAD;
+    margin-left: 16px;
+    align-items: center;
+}
+.footer-center{
+
+}
+.footer-center h2{
+    
+margin: 0;
+    
+color: #fff;
+    
+font-size: 25px;
+    
+font-weight: 600;
+    
+margin-bottom: 20px;
+}
+.recent-content{
+    margin-left: 16px;
+    margin-bottom: 15px;
+    margin-top: 5px;
+}
+.recent-content p{
+
+margin: 0;
+
+color: #959595;
+
+font-size: 14px;
+
+font-weight: 600;
+
+padding-bottom: 8px;
+}
+.recent-content h6{
+
+margin: 0;
+
+color: #727272;
+
+font-size: 13px;
+}
+.recent-post{
+    
+display: flex;
+    
+margin-bottom: 10px;
+}
+.footer-img{width: 56%;margin: 10px 0;}
+.footer-img img{
+    
+width: 100%;
+}
+.footer-right{
+
+}
+.footer-right h2{
+    
+color: #fff;
+    
+margin: 0;
+    
+color: #fff;
+    
+font-size: 25px;
+    
+font-weight: 600;
+    
+margin-bottom: 20px;
+}
+form{
+}
+form p{
+    
+margin: 0;
+    
+margin: 0;
+    
+color: #959595;
+    
+font-size: 14px;
+    
+font-weight: 600;
+    
+margin-bottom: 18px;
+}
+form input{
+    
+border: none;
+    
+padding: 8px;
+    
+padding-right: 32px;
+    
+background: transparent;
+    
+border: 1px solid #8080806b;
+    
+color: #959595;
+    
+font-weight: 500;
+}
+.btn-signup{
+
+background: #F69165;
+
+border: none;
+
+border-radius: 0;
+
+padding: 12px 21px;
+
+margin-top: -3px;
+
+color: #fff;
+
+font-size: 12px;
+
+font-weight: 600;
+}
+.follow{
+    padding-top: 20px;
+}
+.follow ul{
+
+display: flex;
+
+list-style: none;
+
+width: 30%;
+
+margin-left: 74px;
+}
+.follow ul li{
+
+color: #fff;
+
+font-size: 28px;
+
+margin-left: 17px;
+
+margin-top: -6px;
+cursor: pointer;
+}
+.follow ul li i{
+
+}
+.follow ul li i:hover{
+color: #F69165;
+}
+.follow h3{
+    
+margin: 0;
+    
+color: #fff;
+    
+font-size: 20px;
+    
+margin-bottom: -26px;
+    
+padding-top: 10px;
+}
+.copy{
+
+background: #161616;
+
+min-height: 100px;
+}
+.copy p{
+
+margin: 0;
+
+padding: 0;
+
+color: #727272;
+
+font-size: 18px;
+
+font-weight: 500;
+
+text-align: center;
+
+padding-top: 40px;
+}
+.copy p span{color: #00CCE1;}
+.navbar-toggler span i{
+    color: #fff;
+}
+.navbar-brand{
+    display: none;
+}
